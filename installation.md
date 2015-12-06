@@ -2,7 +2,7 @@
 
 hint: Pour les utilisateurs de Mac ou Linux, vous pouvez directement passer à l'installation de GitHub desktop. Git est déjà intégré au noyaux linux.
 
-attention: Je ne vais pas le préciser, mais il est important d'avoir wamp d'installé ainsi que notepadd++  ou tout autres éditeurs.
+attention: Je ne vais pas le préciser, mais il est important d'avoir wamp d'installé ainsi que notepad++  ou tout autres éditeurs.
 
 Pour les utilisateurs de windows, rendez vous sur le site de git : https://git-scm.com/
 
