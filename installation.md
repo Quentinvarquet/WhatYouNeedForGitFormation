@@ -75,5 +75,5 @@ C'est terminé :-)
 
 * Installation de git
 * Création d'un compte github
-* M'envoyer le nom de votre compte à quentin.varquet@gmail.com
+* M'envoyer le nom de votre compte à **quentin.varquet@gmail.com**
 * Installer github
