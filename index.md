@@ -1,23 +1,27 @@
 
 
-# Article Institut G4 - Pourquoi virtualiser les applications de votre SI avec Docker ?
+# SIMGAME : Formation GITHUB - Prérequis
+![](http://quentin-varquet.fr/articles/images//git/git.jpg)
 
-![](http://quentin-varquet.fr/articles/docker/img/footer.png)
+## Contexte
 
-## Contexte du document
+Dans le cadre du Simgame et plus particulièrement du speedocing, vous (et nous !) allons être amenés à développer en html, css, et php.
+Afin de faciliter le développement nous avons décidé de travailler avec **git** et **github**
 
-hint: L'objectif de cet article n'est pas de faire de vous des professionnels de Docker. Il s'agit d'une ébauche concernant les possibilités qu'offre cette technologie. Les plus curieux peuvent retrouver toutes les informations sur le site de [Docker](https://www.docker.com/)
+![](http://quentin-varquet.fr/articles/images/git/github.png)
 
-## Sources
-* **Wikipedia** : https://fr.wikipedia.org
-* **Docker Blog** : https://blog.docker.com/
-* **Site Docker** : https://www.docker.com/
+note: **Git** est un logiciel de gestion de versions décentralisé. Git ne repose pas sur un serveur centralisé. C'est un outil de bas niveau qui se veut simple et performant, dont la principale tâche est de gérer l'évolution du contenu d'une arborescence.
 
+note: **Github** est un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git.
 
+ [Passer à l'installation](https://twitter.com/QuentinVarquet)
 
+## A propos 
 
+La formation sera assurée par Jeremy Gourdon et Quentin Varquet ( moi même )
 
+Si vous avez des questions ou que vous rencontrez des problèmes lors de l'installation des outils, n'hesitez pas à me contacter : 
 
-[Accéder à l'article](http://www.quentin-varquet.fr/articles/docker/mdwiki.html#!presentation-docker.md)
+Mon twitter [@quentinvarquet](https://twitter.com/QuentinVarquet)
 
-Dernière édition le 30/11/2015
+Mail : quentin.varquet@gmail.com
