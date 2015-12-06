@@ -5,7 +5,7 @@
 
 ## Contexte
 
-Dans le cadre du Simgame et plus particulièrement du speedocing, vous (et nous !) allons être amenés à développer en html, css, et php.
+Dans le cadre du Simgame et plus particulièrement du speedcoding, vous (en nous !) allez être amenés à développer en html, css, et php.
 Afin de faciliter le développement nous avons décidé de travailler avec **git** et **github**
 
 ![](http://quentin-varquet.fr/articles/images/git/github.png)
