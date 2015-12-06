@@ -1,10 +1,10 @@
 ## Installation de Git
 
-hint: Pour les utilisateurs de Mac ou Linux, vous pouvez directement passer à l'installation de GitHub desktop. Git est déjà intégré au noyaux linux.
+hint : Pour les utilisateurs de Mac ou Linux, vous pouvez directement passer à l'installation de GitHub desktop. Git est déjà intégré au noyaux linux.
 
-attention: Je ne vais pas le préciser, mais il est important d'avoir wamp d'installé ainsi que notepad++  ou tout autres éditeurs.
+attention : Je ne vais pas le préciser, mais il est important d'avoir Wamp d'installé ainsi que Notepad++ ou autres éditeurs.
 
-Pour les utilisateurs de windows, rendez vous sur le site de git : https://git-scm.com/
+Pour les utilisateurs de Windows, rendez-vous sur le site de Git : https://git-scm.com/
 
 ![](http://quentin-varquet.fr/articles/images/git/01.PNG)
 
@@ -26,31 +26,31 @@ Vous pouvez faire un double clic sur l'exécutable téléchargé.
 
 ![](http://quentin-varquet.fr/articles/images/git/05.PNG)
 
-* On coche toutes les options et suivant
+* On coche toutes les options puis Suivant
 
 ![](http://quentin-varquet.fr/articles/images/git/06.PNG)
 
-* On laisse par défaut sur **Use git from git bash only** et suivant
+* On laisse par défaut sur **Use git from git bash only** puis Suivant
 
 ![](http://quentin-varquet.fr/articles/images/git/07.PNG)
 
-* On laisse par défaut sur **Use OpenSSH** et suivant
+* On laisse par défaut sur **Use OpenSSH** puis Suivant
 
 ![](http://quentin-varquet.fr/articles/images/git/08.PNG)
 
-* On laisse par défaut sur **Checkout Windows-style, commit Unix-style line endings** et suivant
+* On laisse par défaut sur **Checkout Windows-style, commit Unix-style line endings** puis Suivant
 
 ![](http://quentin-varquet.fr/articles/images/git/09.PNG)
 
-* On laisse par défaut sur **Use MinTTY** et suivant
+* On laisse par défaut sur **Use MinTTY** puis Suivant
 
 ![](http://quentin-varquet.fr/articles/images/git/10.PNG)
 
-* On ne coche pas Enable file system caching et suivant
+* On ne coche pas **Enable file system caching** puis Suivant
 
 ![](http://quentin-varquet.fr/articles/images/git/11.PNG)
 
-* Suivant et s'est terminé ! 
+* Suivant et c'est terminé ! 
 
 ## Installation de Github
 
@@ -58,7 +58,7 @@ Vous pouvez faire un double clic sur l'exécutable téléchargé.
 
 Avant de commencer à installer **github** il est impératif de créer un compte : https://github.com/join
 
-hint: Pour faciliter les échanges lors du speedcoding, il est préférable d'avoir un nom de compte en **prenom.nom**. Une fois ce compte créé, merci de me le transmettre par mail : quentin.varquet@gmail.com
+hint: Pour faciliter les échanges lors du Speed Coding, il est préférable d'avoir un nom de compte en **prenom.nom**. Une fois ce compte créé, merci de me le transmettre par mail : quentin.varquet@gmail.com
 
 Par la suite
 

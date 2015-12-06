@@ -1,11 +1,11 @@
-
+﻿
 
 # SIMGAME : Formation GITHUB - Prérequis
 ![](http://quentin-varquet.fr/articles/images//git/git.jpg)
 
 ## Contexte
 
-Dans le cadre du Simgame et plus particulièrement du speedcoding, vous (en nous !) allez être amenés à développer en html, css, et php.
+Dans le cadre du Simgame et plus particulièrement du Speed Coding, vous (en nous !) allez être amenés à développer en html, css, et php.
 Afin de faciliter le développement nous avons décidé de travailler avec **git** et **github**
 
 ![](http://quentin-varquet.fr/articles/images/git/github.png)
@@ -18,9 +18,9 @@ note: **Github** est un service web d'hébergement et de gestion de développeme
 
 ## A propos 
 
-La formation sera assurée par Jeremy Gourdon et Quentin Varquet ( moi même )
+La formation sera assurée par Jeremy Gourdon et Quentin Varquet (moi-même)
 
-Si vous avez des questions ou que vous rencontrez des problèmes lors de l'installation des outils, n'hesitez pas à me contacter : 
+Si vous avez des questions ou que vous rencontrez des problèmes lors de l'installation des outils, n'hésitez pas à me contacter : 
 
 **Mon twitter** : [@quentinvarquet](https://twitter.com/QuentinVarquet)
 
