@@ -14,7 +14,7 @@ note: **Git** est un logiciel de gestion de versions décentralisé. Git ne repo
 
 note: **Github** est un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git.
 
- [Passer à l'installation](https://twitter.com/QuentinVarquet)
+ [Passer à l'installation](http://quentinvarquet.github.io/#!installation.md)
 
 ## A propos 
 
@@ -22,6 +22,6 @@ La formation sera assurée par Jeremy Gourdon et Quentin Varquet ( moi même )
 
 Si vous avez des questions ou que vous rencontrez des problèmes lors de l'installation des outils, n'hesitez pas à me contacter : 
 
-Mon twitter [@quentinvarquet](https://twitter.com/QuentinVarquet)
+**Mon twitter** : [@quentinvarquet](https://twitter.com/QuentinVarquet)
 
-Mail : quentin.varquet@gmail.com
+**Mail** : quentin.varquet@gmail.com
