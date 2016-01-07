@@ -58,7 +58,7 @@ Vous pouvez faire un double clic sur l'exécutable téléchargé.
 
 Avant de commencer à installer **github** il est impératif de créer un compte : https://github.com/join
 
-hint: Pour faciliter les échanges lors du Speed Coding, il est préférable d'avoir un nom de compte en **prenom.nom**. Une fois ce compte créé, merci de me le transmettre par mail : quentin.varquet@gmail.com
+hint: Pour faciliter les échanges lors du Speed Coding, il est préférable d'avoir un nom de compte en **prenomnom**. Une fois ce compte créé, merci de me le transmettre par mail : quentin.varquet@gmail.com
 
 Par la suite
 
